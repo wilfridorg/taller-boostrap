@@ -1,0 +1,22 @@
+.img-cel {
+    width: 720px;
+    height: 80vh;
+}
+
+.col-form {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.button-send {
+    width: 100%;
+}
+
+.img-banner {
+    width: 120px;
+
+}
